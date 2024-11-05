@@ -7,4 +7,4 @@ I’m a student of Game Design & Development.
 
 ### Contact:
 - Discord: @shuttlez
-- Email: contact.ntshuttle@gmail.com
+- Email: devboishuttlez@gmail.com
