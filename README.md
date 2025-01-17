@@ -2,8 +2,8 @@
 I’m a student of Game Design & Development.
 
 - Artist, designer, programmer, hardcore gamer
-- Knowledge in C, C++, Java, HTML
-- Loves mint chip ice cream to a fault
+- Knowledge in C, C#, C++, Java, HTML
+- Will commit heinous crimes for caramel popcorn
 
 ### Contact:
 - Discord: @shuttlez
