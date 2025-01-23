@@ -1,4 +1,4 @@
-## Hi there, I’m Shuttlez!
+## Hi, I’m Shuttlez.
 I’m a student of Game Design & Development.
 
 - Artist, designer, programmer, hardcore gamer
