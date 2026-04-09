@@ -1,5 +1,5 @@
-## Hi, I’m Shuttlez.
-I’m a student of Game Design & Development.
+## Hi, I’m Shuttlez!
+I’m a student of Interactive Design & Game Development.
 
 - Artist, designer, programmer, hardcore gamer
 - Knowledge in C, C#, C++, Java, HTML
