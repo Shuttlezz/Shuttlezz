@@ -6,5 +6,5 @@ I’m a student of Interactive Design & Game Development.
 - Will commit heinous crimes for caramel popcorn
 
 ### Contact:
-- Discord: @shuttlez
+- Discord: @shuttlezdev
 - Email: contact.shuttlezdev@gmail.com
